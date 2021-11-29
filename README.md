@@ -1,4 +1,4 @@
-### 👋 Hello there! I’m Tanzila!
+### 👋 Hello there! I’m Tanzilalala!
 
 👀 I’m interested in AI (NLP and Computer Vision), Machine Learning and Data science.
 
